@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a soft smile and smoking a pipe. They have no hair and are wearing a knit san fran under their gold headphones",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit san fran",
+    "beard": "full beard",
+    "headphones": "gold headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

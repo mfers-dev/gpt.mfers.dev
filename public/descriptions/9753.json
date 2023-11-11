@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing glasses with tinted blue lenses with a straight face. They have long, mid-back length black hair and are wearing green headphones",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "eyes": "nerd glasses",
+    "long hair": "long hair black",
+    "headphones": "green headphones",
+    "mouth": "flat"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing 3D glasses with red and blue lenses with a soft smile. They have a yellow mohawk hairstyle, are wearing white headphones, and are wearing a turquoise collared shirt",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "shirt": "collared shirt turquoise",
+    "eyes": "3D glasses",
+    "short hair": "mohawk yellow",
+    "headphones": "white headphones",
+    "mouth": "smile"
+  }
+}

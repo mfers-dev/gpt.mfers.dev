@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile and smoking a pipe. They have long, mid-back length black hair, are wearing a knit cleveland under their pink headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "shirt": "hoodie down blue",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "hat under headphones": "knit cleveland",
+    "headphones": "pink headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

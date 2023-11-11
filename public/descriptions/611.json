@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a full beard and a straight face and smoking a pipe. They have no hair, are wearing white headphones, and are wearing a pink collared shirt and a blue watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt pink",
+    "4:20 watch": "sub blue",
+    "eyes": "eye mask",
+    "beard": "full beard",
+    "headphones": "white headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

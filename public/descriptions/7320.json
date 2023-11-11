@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a straight face and smoking a cig. They have long, mid-back length black hair, are wearing red headphones, and are wearing a blue watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "4:20 watch": "sub blue",
+    "eyes": "eye mask",
+    "long hair": "long hair black",
+    "headphones": "red headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

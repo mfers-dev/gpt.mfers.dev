@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing 3D glasses with red and blue lenses with a straight face and smoking a cig. They have no hair and are wearing a knit atlanta under their green headphones",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "eyes": "3D glasses",
+    "hat under headphones": "knit atlanta",
+    "headphones": "green headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

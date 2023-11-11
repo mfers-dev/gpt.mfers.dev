@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing bright purple tinted sunglasses with a soft smile and smoking a cig. They have a yellow mohawk hairstyle, are wearing white headphones, and are wearing a blue collared shirt and a blue watch",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt blue",
+    "4:20 watch": "sub blue",
+    "eyes": "purple shades",
+    "short hair": "mohawk yellow",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

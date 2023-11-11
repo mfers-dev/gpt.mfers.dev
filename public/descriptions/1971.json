@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing a cap monochrome under their gold headphones, and are wearing a white collared shirt and a black watch",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "sub black",
+    "eyes": "eye mask",
+    "long hair": "long hair black",
+    "hat under headphones": "cap monochrome",
+    "headphones": "gold headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

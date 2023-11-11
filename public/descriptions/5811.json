@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a soft smile. They have a black mohawk hairstyle and are wearing pink headphones",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "eyes": "shades",
+    "short hair": "mohawk black",
+    "headphones": "pink headphones",
+    "mouth": "smile"
+  }
+}

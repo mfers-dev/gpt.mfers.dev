@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a pipe. They have long, mid-back length blonde hair, are wearing a knit san fran under their pink headphones, and are wearing a gold chain and a black watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "chain": "gold chain",
+    "4:20 watch": "argo black",
+    "eyes": "regular eyes",
+    "long hair": "long hair yellow",
+    "hat under headphones": "knit san fran",
+    "headphones": "pink headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

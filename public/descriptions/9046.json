@@ -1,0 +1,10 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face. They have no hair and are wearing red headphones",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "headphones": "red headphones",
+    "mouth": "flat"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a straight face. They have a yellow mohawk hairstyle and are wearing black headphones",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "short hair": "mohawk yellow",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "flat"
+  }
+}

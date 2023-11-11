@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (a zombie: face shaded light green) with bloodshot and tired eyes with a full beard and a straight face and smoking a cig. They have no hair, are wearing a knit chicago under their black headphones, and are wearing a red watch",
+  "traits": {
+    "background": "graveyard",
+    "type": "zombie mfer",
+    "4:20 watch": "sub red",
+    "eyes": "zombie eyes",
+    "hat under headphones": "knit chicago",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

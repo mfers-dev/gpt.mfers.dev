@@ -1,0 +1,16 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a full beard and a straight face and smoking a pipe. They have long, mid-back length blonde hair, are wearing a headband green/white under their white headphones, and are wearing a yellow collared shirt and a red watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "collared shirt yellow",
+    "4:20 watch": "sub red",
+    "eyes": "eye mask",
+    "long hair": "long hair yellow",
+    "hat under headphones": "headband green/white",
+    "beard": "full beard",
+    "headphones": "white headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

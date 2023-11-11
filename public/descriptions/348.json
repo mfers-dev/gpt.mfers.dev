@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a straight face. They have a yellow mohawk hairstyle and are wearing white headphones",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "eyes": "eye mask",
+    "short hair": "mohawk yellow",
+    "headphones": "white headphones",
+    "mouth": "flat"
+  }
+}

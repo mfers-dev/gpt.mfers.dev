@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing glasses with tinted blue lenses with a straight face and smoking a cig. They have no hair, are wearing a top hat over their white headphones, and are wearing a green collared shirt and a black watch",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt green",
+    "4:20 watch": "sub black",
+    "eyes": "nerd glasses",
+    "headphones": "white headphones",
+    "hat over headphones": "top hat",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

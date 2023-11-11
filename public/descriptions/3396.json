@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (a zombie: face shaded light green) with bloodshot and tired eyes with a soft smile and smoking a cig. They have red short and messy hair, are wearing white headphones, and are wearing a green watch",
+  "traits": {
+    "background": "graveyard",
+    "type": "zombie mfer",
+    "4:20 watch": "sub lantern (green)",
+    "eyes": "zombie eyes",
+    "short hair": "messy red",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

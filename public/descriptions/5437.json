@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a straight face and smoking a cig. They have no hair and are wearing black headphones",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "eyes": "eye mask",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

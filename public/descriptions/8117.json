@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face. They have no hair, are wearing a cap monochrome under their black headphones, and are wearing a red watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "4:20 watch": "sub red",
+    "eyes": "regular eyes",
+    "hat under headphones": "cap monochrome",
+    "headphones": "black headphones",
+    "mouth": "flat"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile. They have no hair, are wearing green headphones, and are wearing a green collared shirt and a blue watch",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt green",
+    "4:20 watch": "sub blue",
+    "eyes": "regular eyes",
+    "headphones": "green headphones",
+    "mouth": "smile"
+  }
+}

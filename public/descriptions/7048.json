@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a soft smile. They have no hair, are wearing white headphones, and are wearing a white collared shirt",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "eyes": "shades",
+    "headphones": "white headphones",
+    "mouth": "smile"
+  }
+}

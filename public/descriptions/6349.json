@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a soft smile. They have long, mid-back length black hair, are wearing blue headphones, and are wearing a pink collared shirt",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt pink",
+    "eyes": "shades",
+    "long hair": "long hair black",
+    "headphones": "blue headphones",
+    "mouth": "smile"
+  }
+}

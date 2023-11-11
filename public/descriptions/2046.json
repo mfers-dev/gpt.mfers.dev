@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile and smoking a pipe. They have red short and messy hair, are wearing green headphones, and are wearing a pink collared shirt",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt pink",
+    "eyes": "regular eyes",
+    "short hair": "messy red",
+    "headphones": "green headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

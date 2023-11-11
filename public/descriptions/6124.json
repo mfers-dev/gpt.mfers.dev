@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a full beard and a soft smile and smoking a cig. They have no hair and are wearing a knit new york under their white headphones",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "eyes": "nerd glasses",
+    "hat under headphones": "knit new york",
+    "beard": "full beard",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

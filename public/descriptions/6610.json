@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a soft smile and smoking a pipe. They have black short and messy hair, are wearing pink headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "shirt": "hoodie down blue",
+    "eyes": "regular eyes",
+    "short hair": "messy black",
+    "beard": "full beard",
+    "headphones": "pink headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

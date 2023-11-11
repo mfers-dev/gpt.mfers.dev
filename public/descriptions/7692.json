@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing a vr headset with a bright cyan case with a full beard and a straight face and smoking a pipe. They have no hair, are wearing a knit chicago under their black headphones, and are wearing a red watch",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "4:20 watch": "sub red",
+    "eyes": "vr",
+    "hat under headphones": "knit chicago",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

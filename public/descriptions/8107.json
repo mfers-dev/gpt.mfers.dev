@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure wearing 3D glasses with red and blue lenses with a full beard and a straight face and smoking a cig. They have a pink mohawk hairstyle, are wearing pink headphones, and are wearing a white collared shirt and a red watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "sub red",
+    "eyes": "3D glasses",
+    "short hair": "mohawk pink",
+    "beard": "full beard",
+    "headphones": "pink headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

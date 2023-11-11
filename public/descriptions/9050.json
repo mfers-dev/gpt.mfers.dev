@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a full beard and a soft smile. They have no hair, are wearing a knit pittsburgh under their black headphones, and are wearing a silver chain and a red watch",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "chain": "silver chain",
+    "4:20 watch": "sub red",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit pittsburgh",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

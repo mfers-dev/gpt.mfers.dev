@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a straight face and smoking a pipe. They have no hair, are wearing a headband blue/white under their white headphones, and are wearing a green collared shirt and a pink watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "collared shirt green",
+    "4:20 watch": "sub rose",
+    "eyes": "shades",
+    "hat under headphones": "headband blue/white",
+    "headphones": "white headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

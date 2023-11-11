@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a soft smile and smoking a pipe. They have red short and messy hair, are wearing black headphones, and are wearing a blue collared shirt",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt blue",
+    "eyes": "eye mask",
+    "short hair": "messy red",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

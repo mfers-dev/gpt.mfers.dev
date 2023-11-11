@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing glasses with tinted blue lenses with a soft smile. They have long, mid-back length black hair and are wearing a knit atlanta under their white headphones",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "eyes": "nerd glasses",
+    "long hair": "long hair black",
+    "hat under headphones": "knit atlanta",
+    "headphones": "white headphones",
+    "mouth": "smile"
+  }
+}

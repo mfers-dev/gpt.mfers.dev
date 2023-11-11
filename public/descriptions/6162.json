@@ -1,0 +1,10 @@
+{
+  "description": "a simple hand-drawn stick figure (an alien: face shaded light blue) with square eyes made of smaller blue squares that look like glowing screens with a soft smile. They have no hair and are wearing black headphones",
+  "traits": {
+    "background": "space",
+    "type": "alien mfer",
+    "eyes": "alien eyes",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

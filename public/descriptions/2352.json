@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a straight face and smoking a cig. They have no hair, are wearing a knit chicago under their gold headphones, and are wearing a yellow collared shirt",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "collared shirt yellow",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit chicago",
+    "beard": "full beard",
+    "headphones": "gold headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

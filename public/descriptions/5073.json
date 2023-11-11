@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a straight face and smoking a cig. They have no hair, are wearing a bandana red under their pink headphones, and are wearing a white collared shirt",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt white",
+    "eyes": "shades",
+    "hat under headphones": "bandana red",
+    "headphones": "pink headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing 3D glasses with red and blue lenses with a soft smile and smoking a pipe. They have a yellow mohawk hairstyle and are wearing pink headphones",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "eyes": "3D glasses",
+    "short hair": "mohawk yellow",
+    "headphones": "pink headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

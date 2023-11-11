@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing glasses with tinted blue lenses with a soft smile. They have no hair, are wearing black headphones, and are wearing a blue collared shirt",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt blue",
+    "eyes": "nerd glasses",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

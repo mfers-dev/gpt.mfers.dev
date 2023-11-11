@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a straight face. They have no hair and are wearing a top hat over their black headphones",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "eyes": "shades",
+    "headphones": "black headphones",
+    "hat over headphones": "top hat",
+    "mouth": "flat"
+  }
+}

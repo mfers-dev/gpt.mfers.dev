@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing a vr headset with a bright cyan case with a soft smile and smoking a cig. They have no hair, are wearing gold headphones, and are wearing a gold chain",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "chain": "gold chain",
+    "eyes": "vr",
+    "headphones": "gold headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

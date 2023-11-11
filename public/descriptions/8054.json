@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a cig. They have no hair, are wearing a knit cleveland under their black headphones, and are wearing a pink collared shirt and a black watch",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "shirt": "collared shirt pink",
+    "4:20 watch": "sub black",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit cleveland",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

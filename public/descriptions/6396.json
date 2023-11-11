@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a straight face and smoking a cig. They have a green mohawk hairstyle and are wearing black headphones",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "short hair": "mohawk green",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

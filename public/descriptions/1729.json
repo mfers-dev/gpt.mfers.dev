@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing 3D glasses with red and blue lenses with a straight face. They have long, mid-back length black hair, are wearing green headphones, and are wearing a gray hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "shirt": "hoodie down gray",
+    "eyes": "3D glasses",
+    "long hair": "long hair black",
+    "headphones": "green headphones",
+    "mouth": "flat"
+  }
+}

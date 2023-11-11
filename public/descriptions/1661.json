@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a straight face and smoking a cig. They have a green mohawk hairstyle, are wearing lined headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "shirt": "hoodie down blue",
+    "eyes": "regular eyes",
+    "short hair": "mohawk green",
+    "headphones": "lined headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

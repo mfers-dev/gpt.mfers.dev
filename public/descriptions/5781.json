@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a straight face. They have no hair, are wearing red headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "shirt": "hoodie down blue",
+    "eyes": "eye mask",
+    "headphones": "red headphones",
+    "mouth": "flat"
+  }
+}

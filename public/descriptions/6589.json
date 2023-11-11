@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a straight face and smoking a pipe. They have no hair, are wearing a knit pittsburgh under their black headphones, and are wearing a turquoise collared shirt and a red watch",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt turquoise",
+    "4:20 watch": "sub red",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit pittsburgh",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

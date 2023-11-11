@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile and smoking a pipe. They have long, mid-back length blonde hair and are wearing a cap monochrome under their red headphones",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "eyes": "regular eyes",
+    "long hair": "long hair yellow",
+    "hat under headphones": "cap monochrome",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

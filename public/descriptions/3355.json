@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have long, mid-back length black hair, are wearing a headband green/white under their white headphones, and are wearing a silver chain",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "chain": "silver chain",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "hat under headphones": "headband green/white",
+    "headphones": "white headphones",
+    "mouth": "smile"
+  }
+}

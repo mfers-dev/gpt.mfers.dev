@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face and smoking a pipe. They have long, mid-back length black hair, are wearing white headphones, and are wearing a green collared shirt",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "shirt": "collared shirt green",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "headphones": "white headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a straight face. They have a yellow mohawk hairstyle and are wearing black headphones",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "eyes": "shades",
+    "short hair": "mohawk yellow",
+    "headphones": "black headphones",
+    "mouth": "flat"
+  }
+}

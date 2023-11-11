@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded light brown) with black circle eyes with a soft smile and smoking a cig. They have no hair and are wearing a bandana red under their gold headphones",
+  "traits": {
+    "background": "tree",
+    "type": "ape mfer",
+    "eyes": "regular eyes",
+    "hat under headphones": "bandana red",
+    "headphones": "gold headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

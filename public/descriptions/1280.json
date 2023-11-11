@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a soft smile and smoking a cig. They have no hair and are wearing a beanie under their red headphones",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "eyes": "shades",
+    "hat under headphones": "beanie",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

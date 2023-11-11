@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a soft smile and smoking a pipe. They have no hair, are wearing a headband green/white under their blue headphones, and are wearing a gold watch",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "4:20 watch": "oyster gold",
+    "eyes": "eye mask",
+    "hat under headphones": "headband green/white",
+    "headphones": "blue headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

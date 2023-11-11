@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a soft smile and smoking a pipe. They have yellow short and messy hair, are wearing white headphones, and are wearing a black watch",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "4:20 watch": "argo black",
+    "eyes": "eye mask",
+    "short hair": "messy yellow",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

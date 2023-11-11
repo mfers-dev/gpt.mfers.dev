@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a soft smile and smoking a pipe. They have long, mid-back length black hair, are wearing white headphones, and are wearing a red watch",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "4:20 watch": "sub red",
+    "eyes": "shades",
+    "long hair": "long hair black",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

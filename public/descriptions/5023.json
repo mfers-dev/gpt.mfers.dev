@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a straight face and smoking a cig. They have a purple mohawk hairstyle, are wearing blue headphones, and are wearing a red watch",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "4:20 watch": "sub red",
+    "eyes": "regular eyes",
+    "short hair": "mohawk purple",
+    "beard": "full beard",
+    "headphones": "blue headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

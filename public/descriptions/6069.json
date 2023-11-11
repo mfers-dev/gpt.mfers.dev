@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face and smoking a cig. They have long, mid-back length blonde hair and are wearing a bandana red under their pink headphones",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "long hair": "long hair yellow",
+    "hat under headphones": "bandana red",
+    "headphones": "pink headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

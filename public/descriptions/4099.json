@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile and smoking a cig. They have long, mid-back length blonde hair, are wearing a bandana dark gray under their white headphones, and are wearing a white collared shirt",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt white",
+    "eyes": "regular eyes",
+    "long hair": "long hair yellow",
+    "hat under headphones": "bandana dark gray",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

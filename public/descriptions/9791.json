@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a soft smile. They have a green mohawk hairstyle, are wearing black headphones, and are wearing a white collared shirt",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "eyes": "nerd glasses",
+    "short hair": "mohawk green",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

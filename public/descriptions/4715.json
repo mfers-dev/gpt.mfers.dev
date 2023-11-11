@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a cig. They have no hair and are wearing a knit chicago under their green headphones",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit chicago",
+    "headphones": "green headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

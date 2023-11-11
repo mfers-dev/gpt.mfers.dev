@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a full beard and a soft smile. They have a blue mohawk hairstyle, are wearing red headphones, and are wearing a yellow collared shirt and a black watch",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt yellow",
+    "4:20 watch": "sub black",
+    "eyes": "regular eyes",
+    "short hair": "mohawk blue",
+    "beard": "full beard",
+    "headphones": "red headphones",
+    "mouth": "smile"
+  }
+}

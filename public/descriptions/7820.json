@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a straight face and smoking a cig. They have purple short and messy hair, are wearing black headphones, and are wearing a white collared shirt and a silver watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "oyster silver",
+    "eyes": "nerd glasses",
+    "short hair": "messy purple",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face. They have no hair, are wearing pink headphones, and are wearing a white collared shirt and a pink watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "sub rose",
+    "eyes": "regular eyes",
+    "headphones": "pink headphones",
+    "mouth": "flat"
+  }
+}

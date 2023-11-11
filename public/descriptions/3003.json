@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing a vr headset with a bright cyan case with a soft smile. They have long, mid-back length black hair, are wearing a headband green/white under their green headphones, and are wearing a silver chain and a blue watch",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "chain": "silver chain",
+    "4:20 watch": "sub blue",
+    "eyes": "vr",
+    "long hair": "long hair black",
+    "hat under headphones": "headband green/white",
+    "headphones": "green headphones",
+    "mouth": "smile"
+  }
+}

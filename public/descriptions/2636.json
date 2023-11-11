@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a cig. They have long, mid-back length blonde hair, are wearing a cowboy hat over their pink headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "hoodie down blue",
+    "eyes": "regular eyes",
+    "long hair": "long hair yellow",
+    "headphones": "pink headphones",
+    "hat over headphones": "cowboy hat",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

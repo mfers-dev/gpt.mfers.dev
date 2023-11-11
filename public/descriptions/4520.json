@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a full beard and a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing a knit san fran under their white headphones, and are wearing a black watch",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "4:20 watch": "sub black",
+    "eyes": "eye mask",
+    "long hair": "long hair black",
+    "hat under headphones": "knit san fran",
+    "beard": "full beard",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing 3D glasses with red and blue lenses with a straight face. They have no hair, are wearing black headphones, and are wearing a turquoise collared shirt and a black watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "collared shirt turquoise",
+    "4:20 watch": "sub black",
+    "eyes": "3D glasses",
+    "headphones": "black headphones",
+    "mouth": "flat"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (a zombie: face shaded light green) with bloodshot and tired eyes with a soft smile and smoking a cig. They have no hair, are wearing a knit new york under their black headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "graveyard",
+    "type": "zombie mfer",
+    "shirt": "hoodie down blue",
+    "eyes": "zombie eyes",
+    "hat under headphones": "knit new york",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing glasses with tinted blue lenses with a straight face and smoking a pipe. They have long, mid-back length black hair, are wearing pink headphones, and are wearing a blue watch",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "4:20 watch": "sub blue",
+    "eyes": "nerd glasses",
+    "long hair": "long hair black",
+    "headphones": "pink headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

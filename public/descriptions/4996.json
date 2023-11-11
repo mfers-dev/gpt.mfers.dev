@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a straight face. They have no hair, are wearing black headphones, and are wearing a pink collared shirt and a silver watch",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt pink",
+    "4:20 watch": "oyster silver",
+    "eyes": "shades",
+    "headphones": "black headphones",
+    "mouth": "flat"
+  }
+}

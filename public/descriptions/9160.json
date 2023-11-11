@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a soft smile and smoking a cig. They have no hair, are wearing a cap purple under their black headphones, and are wearing a silver chain and a turquoise watch",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "chain": "silver chain",
+    "4:20 watch": "sub turquoise",
+    "eyes": "shades",
+    "hat under headphones": "cap purple",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

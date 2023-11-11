@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a cig. They have no hair and are wearing a knit las vegas under their black headphones",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit las vegas",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

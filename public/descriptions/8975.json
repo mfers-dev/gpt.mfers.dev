@@ -1,0 +1,10 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a soft smile. They have no hair and are wearing black headphones",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "eyes": "eye mask",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

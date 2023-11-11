@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a soft smile and smoking a cig. They have no hair, are wearing a headband green/white under their pink headphones, and are wearing a turquoise collared shirt and a silver watch",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt turquoise",
+    "4:20 watch": "oyster silver",
+    "eyes": "shades",
+    "hat under headphones": "headband green/white",
+    "headphones": "pink headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

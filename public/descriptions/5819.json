@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a straight face and smoking a cig. They have long, mid-back length black hair, are wearing a bandana blue under their blue headphones, and are wearing a red watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "4:20 watch": "sub red",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "hat under headphones": "bandana blue",
+    "beard": "full beard",
+    "headphones": "blue headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

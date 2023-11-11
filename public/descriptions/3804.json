@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing glasses with tinted blue lenses with a straight face and smoking a cig. They have no hair, are wearing a bandana dark gray under their black headphones, and are wearing a pink hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "shirt": "hoodie down pink",
+    "eyes": "nerd glasses",
+    "hat under headphones": "bandana dark gray",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

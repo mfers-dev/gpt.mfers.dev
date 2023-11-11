@@ -1,0 +1,16 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a soft smile and smoking a pipe. They have long, mid-back length black hair, are wearing a knit chicago under their white headphones, and are wearing a white collared shirt and a gold watch",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "oyster gold",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "hat under headphones": "knit chicago",
+    "beard": "full beard",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

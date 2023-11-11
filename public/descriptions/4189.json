@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a straight face and smoking a cig. They have yellow short and messy hair, are wearing black headphones, and are wearing a silver chain",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "chain": "silver chain",
+    "eyes": "eye mask",
+    "short hair": "messy yellow",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

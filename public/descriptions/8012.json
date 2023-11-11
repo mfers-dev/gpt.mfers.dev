@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a straight face and smoking a cig. They have long, mid-back length black hair, are wearing a knit new york under their green headphones, and are wearing a pink hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "shirt": "hoodie down pink",
+    "eyes": "nerd glasses",
+    "long hair": "long hair black",
+    "hat under headphones": "knit new york",
+    "headphones": "green headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

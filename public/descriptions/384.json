@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a straight face and smoking a cig. They have no hair, are wearing a bandana red under their pink headphones, and are wearing a red watch",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "4:20 watch": "sub red",
+    "eyes": "regular eyes",
+    "hat under headphones": "bandana red",
+    "headphones": "pink headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

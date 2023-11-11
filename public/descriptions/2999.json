@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face and smoking a cig. They have red short and messy hair, are wearing black headphones, and are wearing a blue watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "4:20 watch": "sub blue",
+    "eyes": "regular eyes",
+    "short hair": "messy red",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

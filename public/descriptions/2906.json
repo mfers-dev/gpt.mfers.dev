@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a straight face and smoking a cig. They have no hair, are wearing a knit atlanta under their pink headphones, and are wearing a blue collared shirt and a black watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt blue",
+    "4:20 watch": "sub black",
+    "eyes": "nerd glasses",
+    "hat under headphones": "knit atlanta",
+    "headphones": "pink headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure wearing 3D glasses with red and blue lenses with a straight face and smoking a pipe. They have no hair and are wearing blue headphones",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "eyes": "3D glasses",
+    "headphones": "blue headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

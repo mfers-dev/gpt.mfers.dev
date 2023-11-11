@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing 3D glasses with red and blue lenses with a soft smile and smoking a cig. They have no hair, are wearing a knit chicago under their blue headphones, and are wearing a silver chain",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "chain": "silver chain",
+    "eyes": "3D glasses",
+    "hat under headphones": "knit chicago",
+    "headphones": "blue headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

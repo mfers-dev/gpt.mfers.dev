@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing a vr headset with a bright cyan case with a full beard and a soft smile. They have no hair, are wearing a beanie monochrome under their lined headphones, and are wearing a green hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "shirt": "hoodie down green",
+    "eyes": "vr",
+    "hat under headphones": "beanie monochrome",
+    "beard": "full beard",
+    "headphones": "lined headphones",
+    "mouth": "smile"
+  }
+}

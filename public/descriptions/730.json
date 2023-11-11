@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a soft smile and smoking a cig. They have a blue mohawk hairstyle and are wearing lined headphones",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "eyes": "eye mask",
+    "short hair": "mohawk blue",
+    "headphones": "lined headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

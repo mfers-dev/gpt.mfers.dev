@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a soft smile and smoking a cig. They have no hair, are wearing a knit chicago under their red headphones, and are wearing a blue collared shirt and a gold watch",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "shirt": "collared shirt blue",
+    "4:20 watch": "oyster gold",
+    "eyes": "nerd glasses",
+    "hat under headphones": "knit chicago",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

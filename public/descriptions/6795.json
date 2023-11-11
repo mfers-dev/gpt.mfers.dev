@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile. They have a blue mohawk hairstyle and are wearing gold headphones",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "eyes": "regular eyes",
+    "short hair": "mohawk blue",
+    "headphones": "gold headphones",
+    "mouth": "smile"
+  }
+}

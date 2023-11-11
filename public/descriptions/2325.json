@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a straight face and smoking a cig. They have yellow short and messy hair, are wearing black headphones, and are wearing a silver chain and a black watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "chain": "silver chain",
+    "4:20 watch": "argo black",
+    "eyes": "shades",
+    "short hair": "messy yellow",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

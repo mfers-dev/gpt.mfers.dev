@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a pipe. They have no hair, are wearing a knit buffalo under their white headphones, and are wearing a green watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "4:20 watch": "sub lantern (green)",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit buffalo",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

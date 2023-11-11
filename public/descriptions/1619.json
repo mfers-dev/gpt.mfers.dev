@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a soft smile. They have no hair, are wearing black headphones, and are wearing a turquoise collared shirt and a red watch",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt turquoise",
+    "4:20 watch": "sub red",
+    "eyes": "eye mask",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a full beard and a soft smile and smoking a cig. They have long, mid-back length blonde hair, are wearing a top hat over their white headphones, and are wearing a green hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "hoodie down green",
+    "eyes": "nerd glasses",
+    "long hair": "long hair yellow",
+    "beard": "full beard",
+    "headphones": "white headphones",
+    "hat over headphones": "top hat",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

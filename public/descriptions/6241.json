@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a straight face and smoking a cig. They have a blue mohawk hairstyle, are wearing white headphones, and are wearing a pink collared shirt and a red watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "collared shirt pink",
+    "4:20 watch": "sub red",
+    "eyes": "shades",
+    "short hair": "mohawk blue",
+    "headphones": "white headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

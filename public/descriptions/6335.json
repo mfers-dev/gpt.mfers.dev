@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a straight face and smoking a cig. They have no hair, are wearing a knit new york under their blue headphones, and are wearing a blue collared shirt and a pink watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt blue",
+    "4:20 watch": "sub rose",
+    "eyes": "shades",
+    "hat under headphones": "knit new york",
+    "headphones": "blue headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

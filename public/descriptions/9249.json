@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a soft smile and smoking a cig. They have no hair, are wearing a headband blue/white under their black headphones, and are wearing a silver watch",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "4:20 watch": "oyster silver",
+    "eyes": "regular eyes",
+    "hat under headphones": "headband blue/white",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

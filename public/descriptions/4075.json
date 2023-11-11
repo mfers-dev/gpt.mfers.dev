@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have long, mid-back length black hair, are wearing red headphones, and are wearing a gray hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "hoodie down gray",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "headphones": "red headphones",
+    "mouth": "smile"
+  }
+}

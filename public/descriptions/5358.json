@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a straight face and smoking a cig. They have no hair, are wearing a bandana dark gray under their black headphones, and are wearing a gold chain and a blue watch",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "chain": "gold chain",
+    "4:20 watch": "sub blue",
+    "eyes": "nerd glasses",
+    "hat under headphones": "bandana dark gray",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

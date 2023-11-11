@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a soft smile. They have long, mid-back length blonde hair and are wearing a headband blue/green under their white headphones",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "long hair": "long hair yellow",
+    "hat under headphones": "headband blue/green",
+    "beard": "full beard",
+    "headphones": "white headphones",
+    "mouth": "smile"
+  }
+}

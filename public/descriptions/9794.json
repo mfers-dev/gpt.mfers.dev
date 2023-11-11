@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a full beard and a soft smile and smoking a cig. They have no hair and are wearing a bandana dark gray under their black headphones",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "eyes": "nerd glasses",
+    "hat under headphones": "bandana dark gray",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a soft smile. They have no hair, are wearing a knit kc under their white headphones, and are wearing a gray hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "hoodie down gray",
+    "eyes": "nerd glasses",
+    "hat under headphones": "knit kc",
+    "headphones": "white headphones",
+    "mouth": "smile"
+  }
+}

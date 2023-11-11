@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing bright purple tinted sunglasses with a straight face and smoking a cig. They have no hair, are wearing a knit cleveland under their black headphones, and are wearing a blue collared shirt",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "shirt": "collared shirt blue",
+    "eyes": "purple shades",
+    "hat under headphones": "knit cleveland",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

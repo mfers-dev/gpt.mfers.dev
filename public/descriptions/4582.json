@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a soft smile. They have no hair, are wearing a headband blue/green under their gold headphones, and are wearing a turquoise watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "4:20 watch": "sub turquoise",
+    "eyes": "regular eyes",
+    "hat under headphones": "headband blue/green",
+    "beard": "full beard",
+    "headphones": "gold headphones",
+    "mouth": "smile"
+  }
+}

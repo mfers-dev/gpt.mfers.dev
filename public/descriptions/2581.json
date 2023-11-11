@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a straight face. They have no hair, are wearing white headphones, and are wearing a blue collared shirt",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "collared shirt blue",
+    "eyes": "eye mask",
+    "headphones": "white headphones",
+    "mouth": "flat"
+  }
+}

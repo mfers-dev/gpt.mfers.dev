@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a soft smile and smoking a cig. They have a purple mohawk hairstyle, are wearing black headphones, and are wearing a red watch",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "4:20 watch": "sub red",
+    "eyes": "eye mask",
+    "short hair": "mohawk purple",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

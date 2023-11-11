@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a pipe. They have a red mohawk hairstyle, are wearing black headphones, and are wearing a white collared shirt and a pink watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "sub rose",
+    "eyes": "regular eyes",
+    "short hair": "mohawk red",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

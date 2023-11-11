@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing a knit san fran under their green headphones, and are wearing a white collared shirt",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt white",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "hat under headphones": "knit san fran",
+    "headphones": "green headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

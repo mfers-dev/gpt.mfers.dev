@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a pipe. They have no hair, are wearing a knit cleveland under their black headphones, and are wearing a gray hoodie with the hood hanging down on their shoulders and a blue watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "hoodie down gray",
+    "4:20 watch": "sub blue",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit cleveland",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

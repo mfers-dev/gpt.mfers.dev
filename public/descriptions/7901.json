@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing bright purple tinted sunglasses with a full beard and a soft smile and smoking a cig. They have no hair and are wearing white headphones",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "eyes": "purple shades",
+    "beard": "full beard",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

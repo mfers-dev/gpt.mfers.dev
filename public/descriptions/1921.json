@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing a knit atlanta under their white headphones, and are wearing a white hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "hoodie down white",
+    "eyes": "shades",
+    "long hair": "long hair black",
+    "hat under headphones": "knit atlanta",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

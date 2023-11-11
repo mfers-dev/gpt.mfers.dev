@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a straight face. They have no hair, are wearing a bandana blue under their black headphones, and are wearing a white collared shirt and a silver watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "oyster silver",
+    "eyes": "nerd glasses",
+    "hat under headphones": "bandana blue",
+    "headphones": "black headphones",
+    "mouth": "flat"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have a green mohawk hairstyle, are wearing blue headphones, and are wearing a white collared shirt and a green watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "sub lantern (green)",
+    "eyes": "regular eyes",
+    "short hair": "mohawk green",
+    "headphones": "blue headphones",
+    "mouth": "smile"
+  }
+}

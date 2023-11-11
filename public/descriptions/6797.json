@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a straight face and smoking a cig. They have no hair, are wearing a headband blue/white under their white headphones, and are wearing a red watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "4:20 watch": "sub red",
+    "eyes": "shades",
+    "hat under headphones": "headband blue/white",
+    "headphones": "white headphones",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

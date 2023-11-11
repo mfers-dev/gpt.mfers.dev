@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing bright purple tinted sunglasses with a soft smile and smoking a pipe. They have a black mohawk hairstyle, are wearing red headphones, and are wearing a pink collared shirt",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt pink",
+    "eyes": "purple shades",
+    "short hair": "mohawk black",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

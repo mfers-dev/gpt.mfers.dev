@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile and smoking a cig. They have no hair, are wearing a knit buffalo under their white headphones, and are wearing a white collared shirt and a red watch",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "sub red",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit buffalo",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

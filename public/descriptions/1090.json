@@ -1,0 +1,10 @@
+{
+  "description": "a simple hand-drawn stick figure (a zombie: face shaded light green) with bloodshot and tired eyes with a soft smile. They have no hair and are wearing black headphones",
+  "traits": {
+    "background": "graveyard",
+    "type": "zombie mfer",
+    "eyes": "zombie eyes",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

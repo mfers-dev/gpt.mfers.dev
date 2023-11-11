@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have no hair, are wearing a knit new york under their black headphones, and are wearing a blue collared shirt",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "shirt": "collared shirt blue",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit new york",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

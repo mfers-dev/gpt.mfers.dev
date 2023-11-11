@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a soft smile. They have purple short and messy hair and are wearing black headphones",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "eyes": "shades",
+    "short hair": "messy purple",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

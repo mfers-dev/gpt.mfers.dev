@@ -1,0 +1,10 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have no hair and are wearing gold headphones",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "headphones": "gold headphones",
+    "mouth": "smile"
+  }
+}

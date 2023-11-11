@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile and smoking a pipe. They have no hair, are wearing a knit las vegas under their black headphones, and are wearing a pink collared shirt and a silver watch",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt pink",
+    "4:20 watch": "oyster silver",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit las vegas",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile and smoking a pipe. They have no hair, are wearing a knit baltimore under their black headphones, and are wearing a green hoodie with the hood hanging down on their shoulders and a gold watch",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "shirt": "hoodie down green",
+    "4:20 watch": "oyster gold",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit baltimore",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

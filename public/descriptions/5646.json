@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face and smoking a pipe. They have no hair, are wearing a cap monochrome under their white headphones, and are wearing a silver watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "4:20 watch": "oyster silver",
+    "eyes": "regular eyes",
+    "hat under headphones": "cap monochrome",
+    "headphones": "white headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

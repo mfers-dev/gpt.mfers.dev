@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing blue headphones, and are wearing a blue collared shirt",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "shirt": "collared shirt blue",
+    "eyes": "eye mask",
+    "long hair": "long hair black",
+    "headphones": "blue headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

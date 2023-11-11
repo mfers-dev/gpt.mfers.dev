@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing 3D glasses with red and blue lenses with a soft smile and smoking a cig. They have red short and messy hair, are wearing white headphones, and are wearing a green collared shirt",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "collared shirt green",
+    "eyes": "3D glasses",
+    "short hair": "messy red",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

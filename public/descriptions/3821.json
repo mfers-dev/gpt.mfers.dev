@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing bright purple tinted sunglasses with a full beard and a soft smile and smoking a cig. They have a yellow mohawk hairstyle, are wearing black headphones, and are wearing a turquoise collared shirt and a red watch",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt turquoise",
+    "4:20 watch": "sub red",
+    "eyes": "purple shades",
+    "short hair": "mohawk yellow",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

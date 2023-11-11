@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a soft smile and smoking a cig. They have red short and messy hair, are wearing black headphones, and are wearing a silver chain",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "chain": "silver chain",
+    "eyes": "shades",
+    "short hair": "messy red",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

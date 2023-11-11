@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing bright purple tinted sunglasses with a soft smile and smoking a pipe. They have no hair, are wearing a headband blue/white under their black headphones, and are wearing a silver chain and a blue watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "chain": "silver chain",
+    "4:20 watch": "sub blue",
+    "eyes": "purple shades",
+    "hat under headphones": "headband blue/white",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

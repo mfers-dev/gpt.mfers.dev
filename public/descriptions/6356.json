@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have no hair and are wearing a knit miami under their white headphones",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit miami",
+    "headphones": "white headphones",
+    "mouth": "smile"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a soft smile and smoking a cig. They have red short and messy hair, are wearing white headphones, and are wearing a white collared shirt and a red watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "sub red",
+    "eyes": "nerd glasses",
+    "short hair": "messy red",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

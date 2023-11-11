@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing a vr headset with a bright cyan case with a straight face and smoking a pipe. They have no hair, are wearing black headphones, and are wearing a red watch",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "4:20 watch": "sub red",
+    "eyes": "vr",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

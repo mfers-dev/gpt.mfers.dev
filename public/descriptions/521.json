@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a soft smile and smoking a cig. They have a black mohawk hairstyle, are wearing black headphones, and are wearing a green hoodie with the hood hanging down on their shoulders and a gold watch",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "shirt": "hoodie down green",
+    "4:20 watch": "oyster gold",
+    "eyes": "regular eyes",
+    "short hair": "mohawk black",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

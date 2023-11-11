@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing bright purple tinted sunglasses with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing red headphones, and are wearing a silver chain",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "chain": "silver chain",
+    "eyes": "purple shades",
+    "long hair": "long hair black",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

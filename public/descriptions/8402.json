@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face and smoking a pipe. They have no hair, are wearing a knit baltimore under their pink headphones, and are wearing a blue collared shirt and a green watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "collared shirt blue",
+    "4:20 watch": "sub lantern (green)",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit baltimore",
+    "headphones": "pink headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

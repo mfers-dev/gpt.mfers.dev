@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a soft smile. They have no hair, are wearing a bandana red under their red headphones, and are wearing a silver chain and a green watch",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "chain": "silver chain",
+    "4:20 watch": "sub lantern (green)",
+    "eyes": "regular eyes",
+    "hat under headphones": "bandana red",
+    "beard": "full beard",
+    "headphones": "red headphones",
+    "mouth": "smile"
+  }
+}

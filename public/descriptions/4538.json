@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a straight face and smoking a cig. They have no hair, are wearing a knit dallas under their green headphones, and are wearing a pink collared shirt",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt pink",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit dallas",
+    "headphones": "green headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

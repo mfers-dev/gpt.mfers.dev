@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a soft smile and smoking a cig. They have no hair and are wearing gold headphones",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "eyes": "nerd glasses",
+    "headphones": "gold headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

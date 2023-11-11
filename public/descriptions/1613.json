@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing 3D glasses with red and blue lenses with a soft smile and smoking a cig. They have a green mohawk hairstyle and are wearing black headphones",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "eyes": "3D glasses",
+    "short hair": "mohawk green",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

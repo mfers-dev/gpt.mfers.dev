@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a soft smile and smoking a cig. They have no hair and are wearing a knit baltimore under their black headphones",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit baltimore",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

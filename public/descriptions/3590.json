@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a straight face. They have long, mid-back length black hair and are wearing green headphones",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "headphones": "green headphones",
+    "mouth": "flat"
+  }
+}

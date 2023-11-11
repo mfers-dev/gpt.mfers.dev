@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing a vr headset with a bright cyan case with a straight face. They have long, mid-back length black hair, are wearing white headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "shirt": "hoodie down blue",
+    "eyes": "vr",
+    "long hair": "long hair black",
+    "headphones": "white headphones",
+    "mouth": "flat"
+  }
+}

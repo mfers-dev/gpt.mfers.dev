@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a pipe. They have no hair, are wearing a top hat over their black headphones, and are wearing a black watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "4:20 watch": "sub black",
+    "eyes": "regular eyes",
+    "headphones": "black headphones",
+    "hat over headphones": "top hat",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

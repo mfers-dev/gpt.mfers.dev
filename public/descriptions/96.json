@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a soft smile and smoking a pipe. They have a blue mohawk hairstyle, are wearing black headphones, and are wearing a gold watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "4:20 watch": "oyster gold",
+    "eyes": "nerd glasses",
+    "short hair": "mohawk blue",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

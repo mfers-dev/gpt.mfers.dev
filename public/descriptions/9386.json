@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a soft smile and smoking a cig. They have no hair, are wearing a knit san fran under their black headphones, and are wearing a green hoodie with the hood hanging down on their shoulders and a black watch",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "shirt": "hoodie down green",
+    "4:20 watch": "argo black",
+    "eyes": "eye mask",
+    "hat under headphones": "knit san fran",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

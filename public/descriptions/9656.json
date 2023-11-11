@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing red headphones, and are wearing a green collared shirt and a silver watch",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "shirt": "collared shirt green",
+    "4:20 watch": "oyster silver",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

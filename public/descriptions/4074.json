@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a soft smile and smoking a pipe. They have no hair, are wearing red headphones, and are wearing a gold chain and a blue watch",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "chain": "gold chain",
+    "4:20 watch": "sub blue",
+    "eyes": "shades",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

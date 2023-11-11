@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing bright purple tinted sunglasses with a straight face and smoking a pipe. They have no hair, are wearing pink headphones, and are wearing a black watch",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "4:20 watch": "sub black",
+    "eyes": "purple shades",
+    "headphones": "pink headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

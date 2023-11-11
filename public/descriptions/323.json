@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing bright purple tinted sunglasses with a soft smile and smoking a pipe. They have a red mohawk hairstyle, are wearing white headphones, and are wearing a turquoise watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "4:20 watch": "sub turquoise",
+    "eyes": "purple shades",
+    "short hair": "mohawk red",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

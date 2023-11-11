@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a pipe. They have no hair, are wearing a knit new york under their white headphones, and are wearing a white collared shirt and a gold watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "oyster gold",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit new york",
+    "headphones": "white headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

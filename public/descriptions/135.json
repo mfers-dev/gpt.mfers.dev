@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face. They have long, mid-back length black hair, are wearing a bandana blue under their green headphones, and are wearing a pink collared shirt and a silver watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "collared shirt pink",
+    "4:20 watch": "oyster silver",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "hat under headphones": "bandana blue",
+    "headphones": "green headphones",
+    "mouth": "flat"
+  }
+}

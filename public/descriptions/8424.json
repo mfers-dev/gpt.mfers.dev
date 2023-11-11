@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a cig. They have purple short and messy hair, are wearing pink headphones, and are wearing a gold chain and a turquoise watch",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "chain": "gold chain",
+    "4:20 watch": "sub turquoise",
+    "eyes": "regular eyes",
+    "short hair": "messy purple",
+    "headphones": "pink headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing 3D glasses with red and blue lenses with a soft smile. They have no hair, are wearing black headphones, and are wearing a blue collared shirt",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt blue",
+    "eyes": "3D glasses",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

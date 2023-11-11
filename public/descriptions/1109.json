@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a full beard and a straight face and smoking a cig. They have long, mid-back length black hair, are wearing red headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders and a blue watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "hoodie down blue",
+    "4:20 watch": "sub blue",
+    "eyes": "eye mask",
+    "long hair": "long hair black",
+    "beard": "full beard",
+    "headphones": "red headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

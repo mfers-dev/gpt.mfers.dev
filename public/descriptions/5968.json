@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face and smoking a cig. They have a black mohawk hairstyle, are wearing black headphones, and are wearing a turquoise collared shirt and a gold watch",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "shirt": "collared shirt turquoise",
+    "4:20 watch": "oyster gold",
+    "eyes": "regular eyes",
+    "short hair": "mohawk black",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

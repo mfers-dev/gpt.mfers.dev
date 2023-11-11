@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing a cowboy hat over their white headphones, and are wearing a red hoodie with the hood hanging down on their shoulders and a turquoise watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "hoodie down red",
+    "4:20 watch": "sub turquoise",
+    "eyes": "nerd glasses",
+    "long hair": "long hair black",
+    "headphones": "white headphones",
+    "hat over headphones": "cowboy hat",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

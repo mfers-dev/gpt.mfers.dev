@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing an eye mask with a soft smile and smoking a cig. They have no hair, are wearing a top hat over their black headphones, and are wearing a red watch",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "4:20 watch": "sub red",
+    "eyes": "eye mask",
+    "headphones": "black headphones",
+    "hat over headphones": "top hat",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

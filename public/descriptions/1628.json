@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a soft smile and smoking a cig. They have no hair, are wearing a knit atlanta under their red headphones, and are wearing a green collared shirt and a red watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt green",
+    "4:20 watch": "sub red",
+    "eyes": "eye mask",
+    "hat under headphones": "knit atlanta",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

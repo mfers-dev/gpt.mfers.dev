@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing bright purple tinted sunglasses with a soft smile and smoking a pipe. They have no hair, are wearing a cowboy hat over their pink headphones, and are wearing a turquoise collared shirt and a silver watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt turquoise",
+    "4:20 watch": "oyster silver",
+    "eyes": "purple shades",
+    "headphones": "pink headphones",
+    "hat over headphones": "cowboy hat",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

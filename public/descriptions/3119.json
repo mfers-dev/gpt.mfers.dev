@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing a vr headset with a bright cyan case with a soft smile and smoking a cig. They have long, mid-back length blonde hair, are wearing black headphones, and are wearing a blue collared shirt and a black watch",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt blue",
+    "4:20 watch": "sub black",
+    "eyes": "vr",
+    "long hair": "long hair yellow",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

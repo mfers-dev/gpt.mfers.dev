@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face and smoking a cig. They have no hair, are wearing a cap purple under their black headphones, and are wearing a green collared shirt and a red watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt green",
+    "4:20 watch": "sub red",
+    "eyes": "regular eyes",
+    "hat under headphones": "cap purple",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face. They have a blue mohawk hairstyle, are wearing white headphones, and are wearing a silver chain and a black watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "chain": "silver chain",
+    "4:20 watch": "argo black",
+    "eyes": "regular eyes",
+    "short hair": "mohawk blue",
+    "headphones": "white headphones",
+    "mouth": "flat"
+  }
+}

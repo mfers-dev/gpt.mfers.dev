@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (a zombie: face shaded light green) with bloodshot and tired eyes with a soft smile and smoking a pipe. They have no hair, are wearing a knit buffalo under their black headphones, and are wearing a pink collared shirt",
+  "traits": {
+    "background": "graveyard",
+    "type": "zombie mfer",
+    "shirt": "collared shirt pink",
+    "eyes": "zombie eyes",
+    "hat under headphones": "knit buffalo",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

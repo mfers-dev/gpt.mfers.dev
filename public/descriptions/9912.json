@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a soft smile and smoking a cig. They have no hair and are wearing a bandana red under their black headphones",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "eyes": "eye mask",
+    "hat under headphones": "bandana red",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

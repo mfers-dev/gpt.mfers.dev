@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing 3D glasses with red and blue lenses with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing a headband green/white under their green headphones, and are wearing a blue collared shirt",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt blue",
+    "eyes": "3D glasses",
+    "long hair": "long hair black",
+    "hat under headphones": "headband green/white",
+    "headphones": "green headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a straight face and smoking a cig. They have no hair, are wearing black headphones, and are wearing a dark gray hoodie with the hood up over the headphones",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "eyes": "shades",
+    "headphones": "black headphones",
+    "hat over headphones": "hoodie",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

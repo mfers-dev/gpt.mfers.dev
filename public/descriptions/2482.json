@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a full beard and a straight face and smoking a pipe. They have no hair, are wearing a headband blue/white under their black headphones, and are wearing a turquoise watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "4:20 watch": "sub turquoise",
+    "eyes": "regular eyes",
+    "hat under headphones": "headband blue/white",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have no hair and are wearing a bandana dark gray under their black headphones",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "hat under headphones": "bandana dark gray",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

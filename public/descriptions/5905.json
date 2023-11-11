@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure wearing a vr headset with a bright cyan case with a soft smile. They have no hair, are wearing green headphones, and are wearing a white collared shirt",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "eyes": "vr",
+    "headphones": "green headphones",
+    "mouth": "smile"
+  }
+}

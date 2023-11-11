@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (an alien: face shaded light blue) with square eyes made of smaller blue squares that look like glowing screens with a straight face and smoking a cig. They have no hair, are wearing a bandana blue under their white headphones, and are wearing a blue watch",
+  "traits": {
+    "background": "space",
+    "type": "alien mfer",
+    "4:20 watch": "sub blue",
+    "eyes": "alien eyes",
+    "hat under headphones": "bandana blue",
+    "headphones": "white headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing glasses with tinted blue lenses with a full beard and a soft smile. They have no hair and are wearing a cap monochrome under their black headphones",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "eyes": "nerd glasses",
+    "hat under headphones": "cap monochrome",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a soft smile and smoking a cig. They have no hair, are wearing a cap purple under their red headphones, and are wearing a blue watch",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "4:20 watch": "sub blue",
+    "eyes": "eye mask",
+    "hat under headphones": "cap purple",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

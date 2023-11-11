@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing glasses with tinted blue lenses with a soft smile and smoking a cig. They have no hair and are wearing a knit kc under their green headphones",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "eyes": "nerd glasses",
+    "hat under headphones": "knit kc",
+    "headphones": "green headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

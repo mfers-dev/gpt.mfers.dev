@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a soft smile and smoking a cig. They have no hair and are wearing pink headphones",
+  "traits": {
+    "background": "yellow",
+    "type": "charcoal mfer",
+    "eyes": "shades",
+    "headphones": "pink headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

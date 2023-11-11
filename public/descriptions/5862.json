@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure wearing bright purple tinted sunglasses with a soft smile. They have no hair, are wearing red headphones, and are wearing a pink collared shirt",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt pink",
+    "eyes": "purple shades",
+    "headphones": "red headphones",
+    "mouth": "smile"
+  }
+}

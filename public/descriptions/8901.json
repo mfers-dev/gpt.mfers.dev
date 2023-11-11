@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing 3D glasses with red and blue lenses with a full beard and a soft smile. They have no hair, are wearing gold headphones, and are wearing a silver chain and a black watch",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "chain": "silver chain",
+    "4:20 watch": "sub black",
+    "eyes": "3D glasses",
+    "beard": "full beard",
+    "headphones": "gold headphones",
+    "mouth": "smile"
+  }
+}

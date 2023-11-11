@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a straight face and smoking a cig. They have purple short and messy hair and are wearing black headphones",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "eyes": "regular eyes",
+    "short hair": "messy purple",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

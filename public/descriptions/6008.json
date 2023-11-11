@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing glasses with tinted blue lenses with a full beard and a straight face and smoking a cig. They have a blue mohawk hairstyle, are wearing black headphones, and are wearing a pink collared shirt",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt pink",
+    "eyes": "nerd glasses",
+    "short hair": "mohawk blue",
+    "beard": "full beard",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

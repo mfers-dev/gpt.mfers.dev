@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing black sunglasses with a full beard and a soft smile and smoking a cig. They have no hair and are wearing a knit chicago under their red headphones",
+  "traits": {
+    "background": "green",
+    "type": "charcoal mfer",
+    "eyes": "shades",
+    "hat under headphones": "knit chicago",
+    "beard": "full beard",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

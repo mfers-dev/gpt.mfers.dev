@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing 3D glasses with red and blue lenses with a straight face. They have long, mid-back length black hair, are wearing a knit chicago under their white headphones, and are wearing a pink hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "shirt": "hoodie down pink",
+    "eyes": "3D glasses",
+    "long hair": "long hair black",
+    "hat under headphones": "knit chicago",
+    "headphones": "white headphones",
+    "mouth": "flat"
+  }
+}

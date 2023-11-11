@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing bright purple tinted sunglasses with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing lined headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "shirt": "hoodie down blue",
+    "eyes": "purple shades",
+    "long hair": "long hair black",
+    "headphones": "lined headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

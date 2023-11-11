@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure wearing a vr headset with a bright cyan case with a straight face. They have no hair, are wearing a bandana blue under their white headphones, and are wearing a turquoise collared shirt and a red watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt turquoise",
+    "4:20 watch": "sub red",
+    "eyes": "vr",
+    "hat under headphones": "bandana blue",
+    "headphones": "white headphones",
+    "mouth": "flat"
+  }
+}

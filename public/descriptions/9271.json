@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face. They have no hair, are wearing red headphones, and are wearing a gold chain",
+  "traits": {
+    "background": "red",
+    "type": "plain mfer",
+    "chain": "gold chain",
+    "eyes": "regular eyes",
+    "headphones": "red headphones",
+    "mouth": "flat"
+  }
+}

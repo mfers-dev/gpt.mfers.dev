@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing bright purple tinted sunglasses with a straight face and smoking a cig. They have no hair, are wearing a knit chicago under their green headphones, and are wearing a turquoise collared shirt and a silver watch",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt turquoise",
+    "4:20 watch": "oyster silver",
+    "eyes": "purple shades",
+    "hat under headphones": "knit chicago",
+    "headphones": "green headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

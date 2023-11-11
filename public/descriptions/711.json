@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a straight face and smoking a cig. They have no hair, are wearing a knit chicago under their black headphones, and are wearing a green collared shirt and a silver watch",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt green",
+    "4:20 watch": "oyster silver",
+    "eyes": "regular eyes",
+    "hat under headphones": "knit chicago",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

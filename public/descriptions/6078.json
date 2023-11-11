@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing a vr headset with a bright cyan case with a straight face and smoking a cig. They have no hair and are wearing a top hat over their lined headphones",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "eyes": "vr",
+    "headphones": "lined headphones",
+    "hat over headphones": "top hat",
+    "mouth": "flat",
+    "smoke": "cig white"
+  }
+}

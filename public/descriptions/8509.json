@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure wearing a vr headset with a bright cyan case with a straight face and smoking a cig. They have long, mid-back length blonde hair and are wearing pink headphones",
+  "traits": {
+    "background": "blue",
+    "type": "plain mfer",
+    "eyes": "vr",
+    "long hair": "long hair yellow",
+    "headphones": "pink headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

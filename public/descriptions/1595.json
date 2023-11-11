@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing 3D glasses with red and blue lenses with a soft smile and smoking a cig. They have no hair and are wearing a cowboy hat over their blue headphones",
+  "traits": {
+    "background": "orange",
+    "type": "charcoal mfer",
+    "eyes": "3D glasses",
+    "headphones": "blue headphones",
+    "hat over headphones": "cowboy hat",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (a zombie: face shaded light green) with bloodshot and tired eyes with a soft smile and smoking a pipe. They have no hair, are wearing a headband blue/green under their black headphones, and are wearing a black watch",
+  "traits": {
+    "background": "graveyard",
+    "type": "zombie mfer",
+    "4:20 watch": "sub black",
+    "eyes": "zombie eyes",
+    "hat under headphones": "headband blue/green",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "pipe"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face and smoking a pipe. They have no hair, are wearing black headphones, and are wearing a silver chain",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "chain": "silver chain",
+    "eyes": "regular eyes",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

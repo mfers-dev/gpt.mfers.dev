@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing an eye mask with a straight face and smoking a cig. They have no hair, are wearing a knit pittsburgh under their white headphones, and are wearing a blue collared shirt and a turquoise watch",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt blue",
+    "4:20 watch": "sub turquoise",
+    "eyes": "eye mask",
+    "hat under headphones": "knit pittsburgh",
+    "headphones": "white headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

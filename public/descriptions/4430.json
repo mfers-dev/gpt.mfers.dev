@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a full beard and a straight face and smoking a pipe. They have long, mid-back length blonde hair, are wearing a headband blue/green under their lined headphones, and are wearing a turquoise collared shirt",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt turquoise",
+    "eyes": "regular eyes",
+    "long hair": "long hair yellow",
+    "hat under headphones": "headband blue/green",
+    "beard": "full beard",
+    "headphones": "lined headphones",
+    "mouth": "flat",
+    "smoke": "pipe"
+  }
+}

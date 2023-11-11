@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face and smoking a cig. They have no hair, are wearing a headband blue/white under their black headphones, and are wearing a gold chain and a blue watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "chain": "gold chain",
+    "4:20 watch": "sub blue",
+    "eyes": "regular eyes",
+    "hat under headphones": "headband blue/white",
+    "headphones": "black headphones",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

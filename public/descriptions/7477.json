@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have red short and messy hair and are wearing green headphones",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "eyes": "regular eyes",
+    "short hair": "messy red",
+    "headphones": "green headphones",
+    "mouth": "smile"
+  }
+}

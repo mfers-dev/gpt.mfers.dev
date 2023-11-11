@@ -1,0 +1,15 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile and smoking a cig. They have long, mid-back length black hair, are wearing a knit baltimore under their blue headphones, and are wearing a white collared shirt and a black watch",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "sub black",
+    "eyes": "regular eyes",
+    "long hair": "long hair black",
+    "hat under headphones": "knit baltimore",
+    "headphones": "blue headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

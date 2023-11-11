@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure wearing black sunglasses with a full beard and a straight face and smoking a cig. They have no hair, are wearing white headphones, and are wearing a dark gray hoodie with the hood up over the headphones and a gold watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "4:20 watch": "oyster gold",
+    "eyes": "shades",
+    "beard": "full beard",
+    "headphones": "white headphones",
+    "hat over headphones": "hoodie",
+    "mouth": "flat",
+    "smoke": "cig black"
+  }
+}

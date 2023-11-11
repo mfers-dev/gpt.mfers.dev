@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) with black circle eyes with a soft smile and smoking a cig. They have no hair, are wearing blue headphones, and are wearing a dark gray hoodie with the hood up over the headphones",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "eyes": "regular eyes",
+    "headphones": "blue headphones",
+    "hat over headphones": "hoodie",
+    "mouth": "smile",
+    "smoke": "cig white"
+  }
+}

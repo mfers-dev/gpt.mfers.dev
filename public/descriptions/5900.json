@@ -1,0 +1,12 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have no hair, are wearing a headband pink/white under their black headphones, and are wearing a blue hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "hoodie down blue",
+    "eyes": "regular eyes",
+    "hat under headphones": "headband pink/white",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

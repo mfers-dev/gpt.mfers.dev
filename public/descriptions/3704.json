@@ -1,0 +1,14 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing glasses with tinted blue lenses with a full beard and a soft smile and smoking a cig. They have a yellow mohawk hairstyle, are wearing red headphones, and are wearing a green hoodie with the hood hanging down on their shoulders",
+  "traits": {
+    "background": "red",
+    "type": "charcoal mfer",
+    "shirt": "hoodie down green",
+    "eyes": "nerd glasses",
+    "short hair": "mohawk yellow",
+    "beard": "full beard",
+    "headphones": "red headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}

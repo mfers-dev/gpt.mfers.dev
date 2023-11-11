@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have no hair, are wearing a cap monochrome under their green headphones, and are wearing a silver chain and a green watch",
+  "traits": {
+    "background": "green",
+    "type": "plain mfer",
+    "chain": "silver chain",
+    "4:20 watch": "sub lantern (green)",
+    "eyes": "regular eyes",
+    "hat under headphones": "cap monochrome",
+    "headphones": "green headphones",
+    "mouth": "smile"
+  }
+}

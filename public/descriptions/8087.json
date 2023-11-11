@@ -1,0 +1,11 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a soft smile. They have no hair, are wearing black headphones, and are wearing a green collared shirt",
+  "traits": {
+    "background": "yellow",
+    "type": "plain mfer",
+    "shirt": "collared shirt green",
+    "eyes": "regular eyes",
+    "headphones": "black headphones",
+    "mouth": "smile"
+  }
+}

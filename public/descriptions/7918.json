@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure with black circle eyes with a straight face. They have no hair, are wearing a bandana red under their gold headphones, and are wearing a white collared shirt and a black watch",
+  "traits": {
+    "background": "orange",
+    "type": "plain mfer",
+    "shirt": "collared shirt white",
+    "4:20 watch": "sub black",
+    "eyes": "regular eyes",
+    "hat under headphones": "bandana red",
+    "headphones": "gold headphones",
+    "mouth": "flat"
+  }
+}

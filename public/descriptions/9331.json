@@ -1,0 +1,13 @@
+{
+  "description": "a simple hand-drawn stick figure (face shaded gray) wearing a vr headset with a bright cyan case with a soft smile and smoking a cig. They have no hair, are wearing a knit cleveland under their black headphones, and are wearing a blue collared shirt",
+  "traits": {
+    "background": "blue",
+    "type": "charcoal mfer",
+    "shirt": "collared shirt blue",
+    "eyes": "vr",
+    "hat under headphones": "knit cleveland",
+    "headphones": "black headphones",
+    "mouth": "smile",
+    "smoke": "cig black"
+  }
+}
