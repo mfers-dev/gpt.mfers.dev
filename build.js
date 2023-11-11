@@ -74,7 +74,34 @@ function describe_mfer({
     },
     hat(){
       if(hat_under){
-        return `are wearing a ${hat_under} under their ${phrases.headphones()}`
+        let better_hat = {
+          "knit buffalo": "blue and red (buffalo) knit beanie",
+          "bandana dark gray": "dark gray bandana worn as a durag",
+          "headband green/white": "green and white striped headband",
+          "beanie": "rainbow pinwheel hat",
+          "knit dallas": "blue and white (dallas) knit beanie",
+          "headband blue/white": "blue and white striped headband",
+          "bandana red": "red bandana worn as a durag",
+          "knit atlanta": "gray and red (atlanta) knit beanie",
+          "knit cleveland": "brown and orange (cleveland) knit beanie",
+          "knit kc": "red and yellow (kc) knit beanie",
+          "knit pittsburgh": "gray and yellow (pittsburgh) knit beanie",
+          "knit baltimore": "gray and purple (baltimore) knit beanie",
+          "knit chicago": "navy and orange (chicago) knit beanie",
+          "cap monochrome": "dark gray snapback hat",
+          "knit san fran": "maroon and tan (san fran) knit beanie",
+          "knit miami": "teal and orange (miami) knit beanie",
+          "headband pink/white": "pink and white striped headband",
+          "knit las vegas": "dark gray and light gray (las vegas) knit beanie",
+          "cap purple": "bright purple snapback hat",
+          "headband blue/green": "blue and green striped headband",
+          "bandana blue": "blue bandana worn as a durag",
+          "knit new york": "green and white (new york) knit beanie",
+          "headband blue/red": "blue and red h stripedeadband",
+          "beanie monochrome": "gray pinwheel hat"
+        }[hat_under]
+        if(!better_hat){ throw Error('hat under not found ' + hat_under) }
+        return `are wearing a ${better_hat} under their ${phrases.headphones()}`
       }
       if(hat_over && hat_over != 'hoodie'){
         return `are wearing a ${hat_over} over their ${phrases.headphones()}`
