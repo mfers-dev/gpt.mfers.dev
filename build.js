@@ -124,7 +124,7 @@ function describe_mfer({
     },
     eyes(){
       let eye_desc = {
-        "regular eyes": "with black circle eyes",
+        "regular eyes": "with black tiny back dots for eyes",
         "nerd glasses": "wearing glasses with tinted blue lenses",
         "zombie eyes": "with bloodshot and tired eyes",
         "shades": "wearing black sunglasses",
