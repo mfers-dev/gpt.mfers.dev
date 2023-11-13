@@ -104,6 +104,9 @@ function describe_mfer({
         return `are wearing a ${better_hat} under their ${phrases.headphones()}`
       }
       if(hat_over && hat_over != 'hoodie'){
+        if(hat_over == 'pilot helment'){
+          hat_over = 'light green pilot helmet with light blue goggles'
+        }
         return `are wearing a ${hat_over} over their ${phrases.headphones()}`
       }
       return `are wearing ${phrases.headphones()}`
@@ -124,7 +127,7 @@ function describe_mfer({
     },
     eyes(){
       let eye_desc = {
-        "regular eyes": "with tiny black dots for eyes",
+        // "regular eyes": "with tiny black dots for eyes",
         "nerd glasses": "wearing glasses with tinted blue lenses",
         "zombie eyes": "with bloodshot and tired eyes",
         "shades": "wearing black sunglasses",
