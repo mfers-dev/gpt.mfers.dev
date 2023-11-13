@@ -104,8 +104,8 @@ function describe_mfer({
         return `are wearing a ${better_hat} under their ${phrases.headphones()}`
       }
       if(hat_over && hat_over != 'hoodie'){
-        if(hat_over == 'pilot helment'){
-          hat_over = 'light green pilot helmet with light blue goggles'
+        if(hat_over == 'pilot helmet'){
+          return 'light green pilot helmet with light blue goggles'
         }
         return `are wearing a ${hat_over} over their ${phrases.headphones()}`
       }
