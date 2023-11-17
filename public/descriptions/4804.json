@@ -3,10 +3,10 @@
   "traits": {
     "background": "green",
     "type": "plain mfer",
+    "beard": "full beard",
     "eyes": "regular eyes",
     "long hair": "long hair black",
     "hat under headphones": "headband green/white",
-    "beard": "full beard",
     "headphones": "white headphones",
     "mouth": "smile"
   }
